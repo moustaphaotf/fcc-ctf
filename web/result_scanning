@@ -1,0 +1,5 @@
+PORT     STATE SERVICE
+23/tcp   open  telnet
+80/tcp   open  http
+443/tcp  open  https
+8443/tcp open  https-alt
