@@ -1,0 +1,198 @@
+!This program cannot be run in DOS mode.
+<!|<\ }
+<!|<\$}
+<!|<\%}
+<!|Rich
+.textbss
+.text
+`.rdata
+@.data
+.idata
+@.00cfg
+@.rsrc
+@.reloc
+hx~A
+Phh{A
+hp{A
+h8{A
+XZ_^[
+input
+password
+2_^[]
+93~G3
+93~AW3
+RSVW
+_^[ZX
+Y_^[
+$SVW
+Y_^[
+$SVW
+Y_^[
+s PV
+t.RPQ
+u/h(
+Y_^[
+HjDj
+:csm
+WuPh
+t?h,
+f94H
+u	_[3
+5Genu
+ineI
+ntel
+radare
+Password error!
+%16s
+Success!
+Stack around the variable '
+' was corrupted.
+The variable '
+' is being used without being initialized.
+The value of ESP was not properly saved across a function call.  This is usually a result of calling a function declared with one calling convention with a function pointer declared with a different calling convention.
+A cast to a smaller data type has caused a loss of data.  If this was intentional, you should mask the source of the cast with the appropriate bitmask.  For example:  
+	char c = (i & 0xFF);
+Changing the code in this way will not affect the quality of the resulting optimized code.
+Reversing with r2 for the first time!
+Enter password: 
+Stack memory was corrupted
+A local variable was used before it was initialized
+Stack memory around _alloca was corrupted
+Unknown Runtime Check Error
+Unknown Filename
+Unknown Module Name
+Run-Time Check Failure #%d - %s
+Stack corrupted near unknown variable
+%.2X 
+Stack area around _alloca memory reserved by this function is corrupted
+Data: <
+Allocation number within this function: 
+Size: 
+Address: 0x
+Stack area around _alloca memory reserved by this function is corrupted
+%s%s%p%s%zd%s%d%s%s%s%s%s
+A variable is being used without being initialized.
+Stack pointer corruption
+Cast to smaller type causing loss of data
+Stack memory corruption
+Local variable used before initialization
+Stack around _alloca corrupted
+RegOpenKeyExW
+RegQueryValueExW
+RegCloseKey
+PDBOpenValidate5
+RSDS
+k+pp
+D:\Code\CSandbox\CSandBox\Debug\CSandBox.pdb
+__std_type_info_destroy_list
+memset
+_except_handler4_common
+__vcrt_GetModuleFileNameW
+__vcrt_GetModuleHandleW
+__vcrt_LoadLibraryExW
+VCRUNTIME140D.dll
+__acrt_iob_func
+__stdio_common_vfprintf
+__stdio_common_vfscanf
+strcmp
+_CrtDbgReport
+_CrtDbgReportW
+_seh_filter_exe
+_set_app_type
+__setusermatherr
+_configure_narrow_argv
+_initialize_narrow_environment
+_get_initial_narrow_environment
+_initterm
+_initterm_e
+exit
+_exit
+_set_fmode
+__p___argc
+__p___argv
+_cexit
+_c_exit
+_register_thread_local_exe_atexit_callback
+_configthreadlocale
+_set_new_mode
+__p__commode
+strcpy_s
+strcat_s
+__stdio_common_vsprintf_s
+_seh_filter_dll
+_initialize_onexit_table
+_register_onexit_function
+_execute_onexit_table
+_crt_atexit
+_crt_at_quick_exit
+_controlfp_s
+terminate
+_wmakepath_s
+_wsplitpath_s
+wcscpy_s
+ucrtbased.dll
+IsDebuggerPresent
+RaiseException
+MultiByteToWideChar
+WideCharToMultiByte
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+IsProcessorFeaturePresent
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+InitializeSListHead
+GetStartupInfoW
+GetModuleHandleW
+GetLastError
+HeapAlloc
+HeapFree
+GetProcessHeap
+VirtualQuery
+FreeLibrary
+GetProcAddress
+KERNEL32.dll
+fflush
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+7/7o7
+9.9=9Q9
+="=5=
+> ?2?;?D?I?p?u?
+5@5h5
+7"717Q7
+848K8n8*9:9[9
+;#;+;3;?;H;M;S;];g;y;
+;*<0<6<<<B<H<O<V<]<d<k<r<y<
+<:=@=F=L=R=X=_=f=m=t={=
+>1>8>
+?#?N?X?t?
+4&4.4I4R4Z4`4
+4K6f6
+6G7x7
+8%8:8F8V8
+8d9j9
+<D=J=
+>	>$>B>I>d>
+j0|0
+121I1
+2%212=2I2U2a2m2z2
+405<5I5S5[5`5g5
+687?7
+9%9.:7:
+:A;K;T;j;t;};V<
+="=(=.=4=:=@=F=L=R=X=^=d=j=p=v=|=
+>$>*>0>6><>B>H>N>T>
+H2L2T2X2\2`2d2
+?,?0?
