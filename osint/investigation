@@ -2,3 +2,22 @@ Le domaine jquery.su a été utilisé en décembre 2020 dans une attaque contre 
 source: https://dspace.cvut.cz/bitstream/handle/10467/92896/F8-DP-2021-Kopecka-Pavlina-thesis.pdf | Section 4.3.3 | Page 67
 
 
+Cette méthode de hacking est appelée **skimming**
+
+Magecart is on of the category of skimming.
+
+Magecart skimming code has also been discovered  impersonating a legitimate security firm, known as Sanguine Security, as a way to disguise itself. 
+
+https://www.joesandbox.com/analysis/327438/0/executive
+
+Recherche google: "candlesdirect.com" -site:candlesdirect.com ".js"
+
+Analysis Report https://www.joesandbox.com/analysis/327438/0/executive
+
+https://www.candlesdirect.com/scripts/luxon-1.11.4.js
+
+
+Essais:
+luxon-1.11.4-js
+luxon-1.11.4.js-JavaScript
+luxon-1.11.4.js
